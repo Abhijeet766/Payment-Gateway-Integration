@@ -109,6 +109,17 @@ header .container .col-md-7 button:active {
     transform: translateY(3px);
 }
 
+.btn {
+    display: flexbox;
+    background-color: aliceblue;
+    font-style: italic;
+    color: rgba(32, 133, 164, 0.945);
+    padding: 8px 15px;
+    text-align: center;
+    justify-content: center;
+
+}
+
 /* Section 1 */
 
 .vision {
